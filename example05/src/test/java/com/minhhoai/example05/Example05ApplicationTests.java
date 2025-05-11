@@ -1,4 +1,4 @@
-package com.minhhoai.example05;
+package com.quachdaihiep.example05;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
